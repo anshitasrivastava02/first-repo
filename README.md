@@ -1,4 +1,4 @@
 # first-repo
-This Git Repository is for Techneex.
+This Git Repository is for Techneekx.
 <br>
 Author - Anshita Srivastava(BBDITM)
